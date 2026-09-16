@@ -1,8 +1,8 @@
 # 柳梦婉
 
-喜欢 MyGO / Mujica，东方 STG 苦手。
+喜欢 MyGO / Mujica，也喜欢爱素（ansy）。
 
-最近在玩《地灵殿》和《红魔乡：新典》。
+东方 STG 苦手，最近在玩《地灵殿》和《红魔乡：新典》。
 
 Curious about local AI tools, agents, and how software systems work. I like adapting tools to my own workflow and investigating the bugs I run into.
 
